@@ -5,5 +5,5 @@ cd dist
 git init
 git add -A
 git commit -m '[PROD] Deployment'
-git push -f git@github.com:tjarkpr/tjarkpr.github.io.git master:page
+git push -f https://github.com/tjarkpr/tjarkpr.github.io.git main:page
 cd -
